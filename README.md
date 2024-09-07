@@ -50,8 +50,8 @@
 <h3>Medição de Voltas</h3>
   <ul>
     <li>Código .ino no GitHub:</li>
-    <li>Simulação no Wokwi:</li>
-    <li>Vídeo Time-lapse:</li>
+    <li>Simulação no Wokwi: https://wokwi.com/projects/407652271504728065 </li>
+    <li>Vídeo Time-lapse: https://youtu.be/X6tdklxeRwI?si=hW-imGlvXW7bLGLj </li>
   </ul>
 
 <h2 id="Autores">Autores</h2>
