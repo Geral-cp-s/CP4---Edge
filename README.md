@@ -49,7 +49,7 @@
 <h2 id="links">Links Importantes</h2>
 <h3>Medição de Voltas</h3>
   <ul>
-    <li>Código .ino no GitHub:</li>
+    <li>Código .ino no GitHub: https://github.com/Geral-cp-s/CP4-Edge/blob/main/code_cp4.ino </li>
     <li>Simulação no Wokwi: https://wokwi.com/projects/407652271504728065 </li>
     <li>Vídeo Time-lapse: https://youtu.be/X6tdklxeRwI?si=hW-imGlvXW7bLGLj </li>
   </ul>
